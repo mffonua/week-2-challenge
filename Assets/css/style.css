@@ -1,7 +1,7 @@
 :root {
-  --primary-color: #283841;
-  --secondary-color: #c1c3c5;
-  --tertiary-color: #3a96a0;
+  --primary-color: #0e1112;
+  --secondary-color: #748a9f;
+  --tertiary-color: #ffff11;
 }
 * {
   box-sizing: border-box;  
@@ -103,7 +103,7 @@ section {
   background-color: var(--primary-color);
 }
 img {
-  border: 5px solid var(--tertiary-color);
+  border: 5px dotted var(--tertiary-color);
 }
 .bottom-left {
   position: absolute;
