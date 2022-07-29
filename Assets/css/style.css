@@ -3,7 +3,7 @@
   --Dark-Gray: #748a9f;
   --Third-color: #006aff;
   --hoover-background: #0095ff;
-}
+} 
 * {
   box-sizing: border-box;  
   margin: 0;
@@ -14,6 +14,7 @@ body, html{
   background-color: var(--Dark-Gray);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
 }
+ /* Targeting the Header Class Below */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
@@ -60,6 +61,7 @@ p {
   position: relative;
   margin: 12px;
 }
+/*Target Section class */
 section {
   display: flex;
   flex-direction: column;
