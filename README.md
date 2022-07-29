@@ -7,7 +7,7 @@
 ### Deployment
 https://mffonua.github.io/week-2-challenge/
 
-![This is a screenshot](/https://mffonua.github.io/week-2-challenge/)
+![Screenshot of Page](./images/challenge-2.jpeg)
 ## Technologies Used
 
 * _My apple-mac laptop_
